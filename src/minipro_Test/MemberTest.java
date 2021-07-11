@@ -3,8 +3,8 @@ package minipro_Test;
 import java.util.ArrayList;
 import java.util.Scanner;
 
+import minipro_DAO.MemberDAO;
 import minipro_DTO.MemberDTO;
-import minipro_Service.MemberDAO;
 
 public class MemberTest {
 
